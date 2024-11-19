@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rishav Kumar</h1>
 <h3 align="center">An obsessive software enthusiast who loves to code.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rizzzav&label=Profile%20views&color=0e75b6&style=flat" alt="rizzzav" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rizzzav" alt="rizzzav" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/rizzzav" target="blank"><img src="https://img.shields.io/twitter/follow/rizzzav?logo=twitter&style=for-the-badge" alt="rizzzav" /></a> </p>
-
 - 🔭 I’m currently studying **Computer Science**
 
 - 🌱 I’m currently learning **Java, Python, Android Development**
