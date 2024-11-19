@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [www.linkedin.com/in/rishavvkumarr](www.linkedin.com/in/rishavvkumarr)
 
-- 📫 How to reach me **rishavkmr1111@gmail.com**
+- 📫 Reach me at **rishavkmr1111@gmail.com**
 
 - ⚡ Fun fact **I love playing musical instruments**
 
