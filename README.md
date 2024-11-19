@@ -3,9 +3,9 @@
 <h3 align="center">An obsessive software enthusiast who loves to code.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
 
-- 🔭 I’m currently studying **Computer Science**
+- 🔭 Studying **Computer Science from IITP**
 
-- 🌱 I’m currently learning **Java, Python, Android Development**
+- 🌱 Currently Learning **Python, Android Development in JAVA**
 
 - 👨‍💻 All of my projects are available at [www.linkedin.com/in/rishavvkumarr](www.linkedin.com/in/rishavvkumarr)
 
