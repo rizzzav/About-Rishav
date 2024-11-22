@@ -7,7 +7,7 @@
 
 - 🌱 Currently Learning **Python, Android Development in JAVA**
 
-- 👨‍💻 All of my projects are available at [www.linkedin.com/in/rishavvkumarr](www.linkedin.com/in/rishavvkumarr)
+- 👨‍💻 All of my projects are available at [www.linkedin.com/in/rishavvkumarr/](https://www.linkedin.com/in/rishavvkumarr/)
 
 - 📫 Reach me at **rishavkmr1111@gmail.com**
 
