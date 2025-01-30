@@ -11,7 +11,7 @@
 
 - 📫 Reach me at **rishavkmr1111@gmail.com**
 
-- ⚡ **I love playing musical instruments, and I'm a speedcuber**
+- ⚡ **I love playing musical instruments**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
