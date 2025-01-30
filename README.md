@@ -5,7 +5,7 @@
 
 - 🔭 Studying **Computer Science from IITP**
 
-- 🌱 Currently Learning **Python, Android Development in JAVA**
+- 🌱 Currently Learning **Android Development in JAVA, Python**
 
 - 👨‍💻 All of my projects are available at [www.linkedin.com/in/rishavvkumarr/](https://www.linkedin.com/in/rishavvkumarr/)
 
