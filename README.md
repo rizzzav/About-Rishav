@@ -5,13 +5,13 @@
 
 - 🔭 Studying **Computer Science from IITP**
 
-- 🌱 Currently Learning **Android Development in JAVA, Python**
+- 🌱 Currently Learning **DSA, Android Development in JAVA**
 
 - 👨‍💻 All of my projects are available at [www.linkedin.com/in/rishavvkumarr/](https://www.linkedin.com/in/rishavvkumarr/)
 
 - 📫 Reach me at **rishavkmr1111@gmail.com**
 
-- ⚡ **I love playing musical instruments**
+- ⚡ **Fun fact about me: I love playing musical instruments**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
